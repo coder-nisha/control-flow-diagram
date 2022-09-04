@@ -1,0 +1,11 @@
+start
+input number
+counter = 2
+counter*counter < number
+        if number < counter == 0
+           output not prime number
+           end
+        else
+            counter ++
+output prime number
+end
