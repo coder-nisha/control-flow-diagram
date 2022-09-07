@@ -1,0 +1,14 @@
+start
+input x and y
+i = 1
+while i < = x.length
+    j = 1 
+    while j < = y.length
+        if x[i] = y[j]
+            output x[i]
+            i++
+        else
+            j++
+    i++
+exit
+            
